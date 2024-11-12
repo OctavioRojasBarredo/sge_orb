@@ -12,21 +12,21 @@
 ### - [9. Secuencia de Fibonacci](./pr0401/Fibonacci.py)
 
 ## PRÁCTICA 2
-### - [PR1](./pr0402/vocalesConsonantes.py)
-### - [PR2](./pr0402/InvertirCadena.py)
-### - [PR3](./pr0402/Palíndromo.py)
-### - [PR4](./pr0402/ContarPalabras.py)
-### - [PR5](./pr0402/EliminarRepetidos.py)
-### - [PR6](./pr0402/mayusMinus.py)
-### - [PR7](./pr0402/InvertirCadena.py)
-### - [PR8](./pr0402/Anagrama.py)
-### - [PR9](./pr0402/FrecuenciaCaracteres.py)
-### - [PR10](./pr0402/quitarNoAlfanuméricos.py)
-### - [PR11](./pr0402/camelCase.py)
-### - [PR12](./pr0402/rle.py)
+### - [PR1](./PR0402/vocalesConsonantes.py)
+### - [PR2](./PR0402/InvertirCadena.py)
+### - [PR3](./PR0402/Palíndromo.py)
+### - [PR4](./PR0402/ContarPalabras.py)
+### - [PR5](./PR0402/EliminarRepetidos.py)
+### - [PR6](./PR0402/mayusMinus.py)
+### - [PR7](./PR0402/InvertirCadena.py)
+### - [PR8](./PR0402/Anagrama.py)
+### - [PR9](./PR0402/FrecuenciaCaracteres.py)
+### - [PR10](./PR0402/quitarNoAlfanuméricos.py)
+### - [PR11](./PR0402/camelCase.py)
+### - [PR12](./PR0402/rle.py)
 
 ## PRÁCTICA 3
-### - [PR1](./pr0403/EJ1.py)
+### - [PR1](./PR0403/EJ1.py)
 ### - [PR2](./PR0403/EJ2.py)
 ### - [PR3](./PR0403/EJ3.py)
 ### - [PR4](./PR0403/EJ4.py)
@@ -41,15 +41,15 @@
 
 
 ## PRÁCTICA 4
-### - [PR1](./pr0404/EJ1.py)
-### - [PR2](./pr0404/EJ2.py)
-### - [PR3](./pr0404/EJ3.py)
-### - [PR4](./pr0404/EJ4.py)
-### - [PR5](./pr0404/EJ5.py)
-### - [PR6](./pr0404/EJ6.py)
+### - [PR1](./PR0404/EJ1.py)
+### - [PR2](./PR0404/EJ2.py)
+### - [PR3](./PR0404/EJ3.py)
+### - [PR4](./PR0404/EJ4.py)
+### - [PR5](./PR0404/EJ5.py)
+### - [PR6](./PR0404/EJ6.py)
 
 ## PRÁCTICA 5
-### - [PR1](./pr0405/EJ1.py)
+### - [PR1](./PR0405/EJ1.py)
 ### - [PR2](./PR0405/EJ2.py)
 ### - [PR3](./PR0405/EJ3.py)
 ### - [PR4](./PR0405/EJ4.py)
